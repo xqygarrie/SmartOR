@@ -22,3 +22,9 @@ System.Color=default
 其中JDBC.DB为数据库的名称
 
 JDBC.IP为数据库的IP地址，本地数据库为localhost
+
+
+
+DBConfig为数据库初始化文件
+
+使用Navicat新建smartor表，将该文件复制粘贴到备份里，使用还原即可
