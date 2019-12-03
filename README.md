@@ -8,6 +8,8 @@ JDBC.DB=
 
 JDBC.IP=
 
+JDBC.TIMEZONE=
+
 Sign.User=
 
 Sign.Password=
@@ -22,6 +24,8 @@ System.Color=default
 其中JDBC.DB为数据库的名称
 
 JDBC.IP为数据库的IP地址，本地数据库为localhost
+
+JDBC.TIMEZONE为数据库所在地的时区设置
 
 
 
